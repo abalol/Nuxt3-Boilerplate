@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; background: rgb(255, 251, 243); display: block; shape-rendering: auto;" width="280" height="250" preserveAspectRatio="xMidYMid">
+	<style type="text/css">
+		text {
+		text-anchor: middle; font-size: 80px; opacity: 0;
+		}
+	</style>
+	<g style="transform-origin:140px 125px;transform:scale(1)">
+		<g transform="translate(140,125)">
+			<g transform="translate(0,0)">
+				<g class="path" style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: -33.04px -0.751997px; animation: 1s linear -0.528s infinite normal forwards running bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83;">
+					<path d="M6.56-1.04L6.56-1.04L6.56-1.04Q4.88-2.72 4.88-5.12L4.88-5.12L4.88-5.12Q4.88-7.52 6.56-9.24L6.56-9.24L6.56-9.24Q8.24-10.96 10.64-10.96L10.64-10.96L10.64-10.96Q13.04-10.96 14.76-9.24L14.76-9.24L14.76-9.24Q16.48-7.52 16.48-5.12L16.48-5.12L16.48-5.12Q16.48-2.72 14.76-1.04L14.76-1.04L14.76-1.04Q13.04 0.64 10.64 0.64L10.64 0.64L10.64 0.64Q8.24 0.64 6.56-1.04" fill="#51cacc" stroke="none" stroke-width="none" transform="translate(-43.720001220703125,4.408002319335938)" style="fill: rgb(81, 202, 204);">
+					</path>
+				</g>
+				<g class="path" style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: -14.08px -0.751997px; animation: 1s linear -0.396s infinite normal forwards running bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83;">
+					<path d="M25.52-1.04L25.52-1.04L25.52-1.04Q23.84-2.72 23.84-5.12L23.84-5.12L23.84-5.12Q23.84-7.52 25.52-9.24L25.52-9.24L25.52-9.24Q27.20-10.96 29.60-10.96L29.60-10.96L29.60-10.96Q32-10.96 33.72-9.24L33.72-9.24L33.72-9.24Q35.44-7.52 35.44-5.12L35.44-5.12L35.44-5.12Q35.44-2.72 33.72-1.04L33.72-1.04L33.72-1.04Q32 0.64 29.60 0.64L29.60 0.64L29.60 0.64Q27.20 0.64 25.52-1.04" fill="#51cacc" stroke="none" stroke-width="none" transform="translate(-43.720001220703125,4.408002319335938)" style="fill: rgb(157, 248, 113);">
+					</path>
+				</g>
+				<g class="path" style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: 4.88px -0.751997px; animation: 1s linear -0.264s infinite normal forwards running bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83;">
+					<path d="M44.48-1.04L44.48-1.04L44.48-1.04Q42.80-2.72 42.80-5.12L42.80-5.12L42.80-5.12Q42.80-7.52 44.48-9.24L44.48-9.24L44.48-9.24Q46.16-10.96 48.56-10.96L48.56-10.96L48.56-10.96Q50.96-10.96 52.68-9.24L52.68-9.24L52.68-9.24Q54.40-7.52 54.40-5.12L54.40-5.12L54.40-5.12Q54.40-2.72 52.68-1.04L52.68-1.04L52.68-1.04Q50.96 0.64 48.56 0.64L48.56 0.64L48.56 0.64Q46.16 0.64 44.48-1.04" fill="#51cacc" stroke="none" stroke-width="none" transform="translate(-43.720001220703125,4.408002319335938)" style="fill: rgb(224, 255, 119);">
+					</path>
+				</g>
+				<g class="path" style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: 23.84px -0.751997px; animation: 1s linear -0.132s infinite normal forwards running bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83;">
+					<path d="M63.44-1.04L63.44-1.04L63.44-1.04Q61.76-2.72 61.76-5.12L61.76-5.12L61.76-5.12Q61.76-7.52 63.44-9.24L63.44-9.24L63.44-9.24Q65.12-10.96 67.52-10.96L67.52-10.96L67.52-10.96Q69.92-10.96 71.64-9.24L71.64-9.24L71.64-9.24Q73.36-7.52 73.36-5.12L73.36-5.12L73.36-5.12Q73.36-2.72 71.64-1.04L71.64-1.04L71.64-1.04Q69.92 0.64 67.52 0.64L67.52 0.64L67.52 0.64Q65.12 0.64 63.44-1.04" fill="#51cacc" stroke="none" stroke-width="none" transform="translate(-43.720001220703125,4.408002319335938)" style="fill: rgb(222, 157, 214);">
+					</path>
+				</g>
+				<g class="path" style="transform: matrix(1, 0, 0, 1, 0, 0); transform-origin: 42.8px -0.751997px; animation: 1s linear 0s infinite normal forwards running bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83;">
+					<path d="M82.40-1.04L82.40-1.04L82.40-1.04Q80.72-2.72 80.72-5.12L80.72-5.12L80.72-5.12Q80.72-7.52 82.40-9.24L82.40-9.24L82.40-9.24Q84.08-10.96 86.48-10.96L86.48-10.96L86.48-10.96Q88.88-10.96 90.60-9.24L90.60-9.24L90.60-9.24Q92.32-7.52 92.32-5.12L92.32-5.12L92.32-5.12Q92.32-2.72 90.60-1.04L90.60-1.04L90.60-1.04Q88.88 0.64 86.48 0.64L86.48 0.64L86.48 0.64Q84.08 0.64 82.40-1.04" fill="#51cacc" stroke="none" stroke-width="none" transform="translate(-43.720001220703125,4.408002319335938)" style="fill: rgb(255, 112, 142);">
+					</path>
+				</g>
+			</g>
+		</g>
+	</g>
+	<style id="bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83" data-anikit="">
+		@keyframes bounce-84d7bc55-9528-4650-a73d-2d66fbb16e83
+		{
+		0% {
+		animation-timing-function: cubic-bezier(0.1361,0.2514,0.2175,0.8786);
+		transform: translate(0,0px) scaleY(1);
+		}
+		37% {
+		animation-timing-function: cubic-bezier(0.7674,0.1844,0.8382,0.7157);
+		transform: translate(0,-39.96px) scaleY(1);
+		}
+		72% {
+		animation-timing-function: cubic-bezier(0.1118,0.2149,0.2172,0.941);
+		transform: translate(0,0px) scaleY(1);
+		}
+		87% {
+		animation-timing-function: cubic-bezier(0.7494,0.2259,0.8209,0.6963);
+		transform: translate(0,19.900000000000002px) scaleY(0.602);
+		}
+		100% {
+		transform: translate(0,0px) scaleY(1);
+		}
+		}
+	</style>
+</svg>
